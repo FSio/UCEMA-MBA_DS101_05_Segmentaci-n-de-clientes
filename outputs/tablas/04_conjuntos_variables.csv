@@ -1,0 +1,5 @@
+conjunto,hopkins,k_mejor_silueta,silueta
+A: Ingreso + Score,0.698,5,0.555
+B: Edad + Ingreso + Score,0.694,6,0.427
+C: Genero + Edad + Ingreso + Score,0.739,8,0.388
+D: Edad + Score,0.695,2,0.472
